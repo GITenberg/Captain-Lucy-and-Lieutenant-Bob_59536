@@ -1,0 +1,30 @@
+_repo: Captain-Lucy-and-Lieutenant-Bob_59536
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Pallen_Coleman
+creator:
+  author:
+    agent_name: Havard, Aline
+    birthdate: 1889
+    gutenberg_agent_id: '49343'
+    url: http://www.gutenberg.org/2009/agents/49343
+description: ''
+gutenberg_issued: '2019-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Captain Lucy and Lieutenant Bob
+url: http://www.gutenberg.org/ebooks/59536
