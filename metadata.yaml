@@ -1,5 +1,5 @@
 _repo: Captain-Lucy-and-Lieutenant-Bob_59536
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Coleman, Ralph P. (Ralph Pallen)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6922'
     url: http://www.gutenberg.org/2009/agents/6922
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Pallen_Coleman
+covers:
+- cover_type: archival
+  image_path: 59536-h/images/cover.jpg
 creator:
   author:
     agent_name: Havard, Aline
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '49343'
     url: http://www.gutenberg.org/2009/agents/49343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59536#Captain-Lucy-and-Lieutenant-Bob
 gutenberg_issued: '2019-05-18'
 gutenberg_type: Text
 identifiers:
